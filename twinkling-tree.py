@@ -20,7 +20,7 @@ def twinkle(count,interval):
 
 count = 50;
 while True:
-    time.sleep(0.2)
+    time.sleep(0.1)
     # star at the top
     #
     tree[3]=twinkle(count,37)
